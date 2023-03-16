@@ -1,6 +1,6 @@
 # johannadiaz
-##subtitulo
-###subtitulo mas pequeño
+## subtitulo
+### subtitulo mas pequeño
 Lugar para compartir algo de código
 
 
